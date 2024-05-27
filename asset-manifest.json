@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SkinScannerFront.github.io/static/css/main.f450d574.css",
-    "main.js": "/SkinScannerFront.github.io/static/js/main.5685592d.js",
+    "main.js": "/SkinScannerFront.github.io/static/js/main.16901e95.js",
     "static/js/453.476fc43f.chunk.js": "/SkinScannerFront.github.io/static/js/453.476fc43f.chunk.js",
     "index.html": "/SkinScannerFront.github.io/index.html",
     "main.f450d574.css.map": "/SkinScannerFront.github.io/static/css/main.f450d574.css.map",
-    "main.5685592d.js.map": "/SkinScannerFront.github.io/static/js/main.5685592d.js.map",
+    "main.16901e95.js.map": "/SkinScannerFront.github.io/static/js/main.16901e95.js.map",
     "453.476fc43f.chunk.js.map": "/SkinScannerFront.github.io/static/js/453.476fc43f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f450d574.css",
-    "static/js/main.5685592d.js"
+    "static/js/main.16901e95.js"
   ]
 }
