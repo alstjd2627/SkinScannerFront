@@ -20,7 +20,7 @@ function App() {
     formData.append('file', file);
 
     try {
-      const response = await axios.post('images/upload', formData, {
+      const response = await axios.post('https://skinscanner.site/images/upload', formData, {
         headers: {
           'Content-Type': 'multipart/form-data',
         },
