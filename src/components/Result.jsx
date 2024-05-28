@@ -13,7 +13,7 @@ const getResult = (predictedClass) => {
     return 'High-level of acne';
   }
   else if (predictedClass === 'normal') {
-    return 'No proble! 🥳';
+    return 'No problem! 🥳';
   }
   else {
     return predictedClass;
