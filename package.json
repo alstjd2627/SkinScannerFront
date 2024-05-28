@@ -38,6 +38,8 @@
       "last 1 safari version"
     ]
   },
+
+  "homepage": "https://skin-scanner-front-asjisozeh-alstjds-projects.vercel.app",
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
