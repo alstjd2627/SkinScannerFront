@@ -39,7 +39,7 @@
     ]
   },
   "proxy": "http://13.125.234.116/",
-  "homepage": "https://skin-scanner-front.vercel.app",
+  "homepage": "https://alstjd2627.github.io/SkinScannerFront/",
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
