@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SkinScannerFront/static/css/main.26b61c29.css",
-    "main.js": "/SkinScannerFront/static/js/main.048bd115.js",
+    "main.js": "/SkinScannerFront/static/js/main.3a5abbdc.js",
     "index.html": "/SkinScannerFront/index.html",
     "main.26b61c29.css.map": "/SkinScannerFront/static/css/main.26b61c29.css.map",
-    "main.048bd115.js.map": "/SkinScannerFront/static/js/main.048bd115.js.map"
+    "main.3a5abbdc.js.map": "/SkinScannerFront/static/js/main.3a5abbdc.js.map"
   },
   "entrypoints": [
     "static/css/main.26b61c29.css",
-    "static/js/main.048bd115.js"
+    "static/js/main.3a5abbdc.js"
   ]
 }
